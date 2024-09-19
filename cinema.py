@@ -4,6 +4,7 @@ x = 1
 y = 1
 a = n
 A = n + 1
+
 ryad = x
 ost = k - 1
 while ost != 0:
